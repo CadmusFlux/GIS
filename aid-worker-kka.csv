@@ -1,0 +1,167 @@
+date,country,country_iso,aidworkers_killed,aidworkers_kidnapped,aidworkers_arrested,event_id,victim_status
+#date,#country+name,#country+code,#affected+killed,#affected+kidnapped,#affected+arrested,#event+id,#status+victims
+2020-01,South Sudan,SSD,10,,,26342,
+2020-01,Bangladesh,BGD,1,,,24120,
+2020-01,Mali,MLI,,2,,24104,Freed
+2020-01,Afghanistan,AFG,,,1,24119,NoInformation
+2020-01,Syria,SYR,1,,,24131,
+2020-01,Syria,SYR,2,,,25751,
+2020-01,Syria,SYR,1,,,26347,
+2020-01,Iraq,IRQ,,4,,24277,Freed
+2020-01,South Sudan,SSD,1,,,26341,
+2020-01,Syria,SYR,1,,,24136,
+2020-01,Syria,SYR,1,,,26223,
+2020-01,Syria,SYR,1,,,26226,
+2020-01,Syria,SYR,1,,,24144,
+2020-01,Syria,SYR,1,,,24145,
+2020-01,Syria,SYR,1,,,26475,
+2020-01,Syria,SYR,5,,,26496,
+2020-01,Syria,SYR,1,,,24148,
+2020-01,Cameroon,CMR,,4,,26689,Freed
+2020-01,Syria,SYR,1,,,25661,
+2020-02,DRC,COD,,1,,25426,Freed
+2020-02,Somalia,SOM,,3,,24200,NoInformation
+2020-02,DRC,COD,1,,,24198,
+2020-02,Syria,SYR,1,,,26240,
+2020-02,Syria,SYR,,1,,24320,NoInformation
+2020-02,South Sudan,SSD,1,,,24201,
+2020-02,South Sudan,SSD,1,,,25640,
+2020-02,CAR,CAF,1,,,24960,
+2020-02,Syria,SYR,2,,,24208,
+2020-02,Syria,SYR,1,,,24214,
+2020-02,DRC,COD,,3,,24961,NoInformation
+2020-02,DRC,COD,,3,,25430,NoInformation
+2020-02,Syria,SYR,,1,,26880,NoInformation
+2020-02,South Sudan,SSD,1,,,24963,
+2020-02,Ethiopia,ETH,,,15,24199,Freed
+2020-03,CAR,CAF,1,,,24964,
+2020-03,Nigeria,NGA,,1,,27504,NoInformation
+2020-03,South Sudan,SSD,1,,,24273,
+2020-03,Syria,SYR,,1,,26629,NoInformation
+2020-03,Yemen,YEM,,,4,25756,Freed
+2020-03,DRC,COD,,1,,24271,NoInformation
+2020-03,Burkina Faso,BFA,,1,,25277,NoInformation
+2020-03,Syria,SYR,,,4,24280,Freed
+2020-03,Syria,SYR,1,,,24313,
+2020-03,Yemen,YEM,,2,,24315,Killed
+2020-03,Yemen,YEM,1,,,25755,
+2020-03,Afghanistan,AFG,,5,,24962,Freed
+2020-03,South Sudan,SSD,1,,,24274,
+2020-03,South Kordofan,SDN,,,5,25642,NoInformation
+2020-03,DRC,COD,,3,,24325,NoInformation
+2020-04,Myanmar,MMR,,,14,27231,NoInformation
+2020-04,South Sudan,SSD,1,,,24330,
+2020-04,Somalia,SOM,,2,,24329,NoInformation
+2020-04,Mali,MLI,,4,,24328,NoInformation
+2020-04,South Sudan,SSD,1,,,24331,
+2020-04,DRC,COD,,4,,24326,Freed
+2020-04,DRC,COD,,3,,25425,NoInformation
+2020-04,Myanmar,MMR,1,,,24334,
+2020-04,Nigeria,NGA,1,,,25931,
+2020-04,Mozambique,MOZ,,1,,24376,Escaped
+2020-05,Somalia,SOM,,3,,24411,NoInformation
+2020-05,Uganda,UGA,1,,,26476,
+2020-05,Afghanistan,AFG,2,,,25182,
+2020-05,Turkey,TUR,2,,,24506,
+2020-05,South Sudan,SSD,3,,,24498,
+2020-05,Mexico,MEX,,,13,24950,NoInformation
+2020-05,CAR,CAF,,6,,24531,Freed
+2020-05,Somalia,SOM,,7,,24483,Killed
+2020-05,Burkina Faso,BFA,2,,,24358,
+2020-05,Cameroon,CMR,,7,,25549,Freed
+2020-06,Nigeria,NGA,,4,,26570,Killed
+2020-06,Mali,MLI,,3,,25560,NoInformation
+2020-06,Nigeria,NGA,,3,,24891,Killed
+2020-06,Mali,MLI,,3,,24815,"Freed, NoInformation"
+2020-06,Somalia,SOM,1,,,24819,
+2020-06,Mali,MLI,,1,,24816,NoInformation
+2020-06,Nigeria,NGA,,1,,27851,Killed
+2020-06,Mali,MLI,,3,,24817,NoInformation
+2020-06,South Sudan,SSD,1,,,26343,
+2020-06,Iran,IRN,,,3,24827,NoInformation
+2020-06,Syria,SYR,,1,,24874,Freed
+2020-06,Mali,MLI,,,4,25559,Freed
+2020-06,Burkina Faso,BFA,,,2,24813,Freed
+2020-06,Niger,NER,,10,,24818,Freed
+2020-06,DRC,COD,,1,,25318,Freed
+2020-06,South Sudan,SSD,1,,,24826,
+2020-06,DRC,COD,,1,,24814,Freed
+2020-07,South Sudan,SSD,1,,,25007,
+2020-07,Libya,LBY,2,,,25009,
+2020-07,Yemen,YEM,,2,,25010,NoInformation
+2020-07,Mali,MLI,,2,,24999,Freed
+2020-07,Cameroon,CMR,,1,,24998,Killed
+2020-07,Syria,SYR,2,,,26337,
+2020-07,DRC,COD,3,,,25314,
+2020-07,South Sudan,SSD,2,,,25008,
+2020-07,Colombia,COL,1,,,25050,
+2020-07,South Sudan,SSD,,1,,24990,NoInformation
+2020-07,Mali,MLI,,1,,24944,NoInformation
+2020-07,Syria,SYR,,,1,25644,NoInformation
+2020-08,Burkina Faso,BFA,,4,,25224,NoInformation
+2020-08,Burkina Faso,BFA,,2,,26688,Freed
+2020-08,Libya,LBY,,,1,25822,NoInformation
+2020-08,Cameroon,CMR,,1,,25225,"Killed, NotAnswered"
+2020-08,Burkina Faso,BFA,,1,,25243,Freed
+2020-08,Mali,MLI,1,,,25226,
+2020-08,Niger,NER,7,,,25242,
+2020-08,Guatemala,GTM,1,,,25227,
+2020-08,Syria,SYR,,,1,25352,StillInCaptivity
+2020-08,Afghanistan,AFG,1,,,26334,
+2020-08,DRC,COD,,1,,25359,NoInformation
+2020-08,Syria,SYR,1,,,25461,
+2020-08,USA,USA,,,9,25462,Freed
+2020-09,Bangladesh,BGD,1,,,25460,
+2020-09,South Sudan,SSD,1,,,25742,
+2020-09,Syria,SYR,1,,,25752,
+2020-09,Syria,SYR,2,,,26559,
+2020-09,Nigeria,NGA,,1,,25737,NoInformation
+2020-09,Burkina Faso,BFA,,2,,25729,Freed
+2020-09,Syria,SYR,1,,,25746,
+2020-09,DRC,COD,,1,,26879,Freed
+2020-09,DRC,COD,1,,,25734,
+2020-09,DRC,COD,,3,,25790,NoInformation
+2020-09,Somalia,SOM,,1,,25738,NoInformation
+2020-09,Solomon Islands,SLB,2,,,25744,
+2020-09,DRC,COD,,3,,25818,Freed
+2020-09,DRC,COD,,1,,25792,Freed
+2020-09,South Sudan,SSD,1,,,25823,
+2020-10,South Sudan,SSD,1,,,25827,
+2020-10,Israel,ISR,,,5,25837,NoInformation
+2020-10,Yemen,YEM,,,2,25838,Freed
+2020-10,South Sudan,SSD,1,,,26117,
+2020-10,France,FRA,,,1,26130,Freed
+2020-10,DRC,COD,,2,,26074,NoInformation
+2020-10,Nigeria,NGA,,1,,26221,NoInformation
+2020-10,Syria,SYR,,,1,26209,NoInformation
+2020-10,South Sudan,SSD,1,,,26122,
+2020-10,Somalia,SOM,2,,,26280,
+2020-10,Azerbaijan,AZE,1,,,25938,
+2020-10,South Sudan,SSD,1,,,26290,
+2020-10,DRC,COD,,1,,26251,NoInformation
+2020-10,DRC,COD,,3,,26253,NoInformation
+2020-10,Somalia,SOM,1,,,26281,
+2020-10,DRC,COD,,4,,26755,Freed
+2020-10,South Sudan,SSD,1,,,26291,
+2020-11,DRC,COD,,3,,26563,Freed
+2020-11,Syria,SYR,2,,,26451,
+2020-11,Mali,MLI,,2,,26581,NoInformation
+2020-11,South Sudan,SSD,1,,,26587,
+2020-11,South Sudan,SSD,,,2,26588,Freed
+2020-11,DRC,COD,1,,,26292,
+2020-11,Ethiopia,ETH,4,,,26333,
+2020-11,Syria,SYR,1,,,26351,
+2020-11,Mali,MLI,,6,,26336,Freed
+2020-11,Afghanistan,AFG,,,1,26345,Freed
+2020-11,Nigeria,NGA,,1,,26340,NoInformation
+2020-12,Ethiopia,ETH,1,,,26544,
+2020-12,Cameroon,CMR,,1,,26503,Freed
+2020-12,Colombia,COL,,1,,26564,Freed
+2020-12,Ethiopia,ETH,,,4,26495,NoInformation
+2020-12,Nigeria,NGA,,1,,26625,NoInformation
+2020-12,Nigeria,NGA,,2,,26498,NoInformation
+2020-12,Syria,SYR,,1,,26502,Freed
+2020-12,Nigeria,NGA,,1,,27477,Freed
+2020-12,Niger,NER,,1,,26554,Freed
+2020-12,Yemen,YEM,3,,,27314,
+2020-12,Yemen,YEM,3,,,26561,
